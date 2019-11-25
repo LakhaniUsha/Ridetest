@@ -52,9 +52,9 @@ public class StudentRegistration extends AppCompatActivity {
         protected Void doInBackground(Void... params) {
 
             URL url = null;
-            EditText ed1 = findViewById(R.id.edt_id);
-            EditText ed2 = findViewById(R.id.edt_fname);
-            EditText ed3 = findViewById(R.id.edt_lname);
+            EditText ed1 = findViewById(R.id.editText2);
+            EditText ed2 = findViewById(R.id.editText3);
+            EditText ed3 = findViewById(R.id.editText4);
             EditText ed4 = findViewById(R.id.editText5);
             EditText ed5 = findViewById(R.id.editText6);
             EditText ed6 = findViewById(R.id.editText7);
